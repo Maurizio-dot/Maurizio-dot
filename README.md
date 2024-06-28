@@ -1,3 +1,11 @@
+# ITS project
+
+___
+
+[Methodology](https://maurizio-dot.github.io/Maurizio-dot/) [Project phases](https://maurizio-dot.github.io/Maurizio-dot1/) [Conclusion](https://maurizio-dot.github.io/Maurizio-dot2/) 
+
+___
+
 ## Methodology
 Our approach is based on the following methodology:
 
